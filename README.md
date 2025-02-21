@@ -2,7 +2,7 @@
 
 Audio Occlusion, Audio Areas, and Audio Depth Areas for your project.
 
-[![GigaBake Video](https://img.youtube.com/vi/YgN4bHHGhKA/0.jpg)](https://www.youtube.com/watch?v=YgN4bHHGhKA)
+[![GigaBake Video](https://img.youtube.com/vi/uHHBSo0XrLQ/0.jpg)](https://www.youtube.com/watch?v=uHHBSo0XrLQ)
 
 Tag me on [BlueSky](https://bsky.app/profile/stuyk.bsky.social) if you use this project!
 
